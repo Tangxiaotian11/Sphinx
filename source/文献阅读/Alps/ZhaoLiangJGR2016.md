@@ -1,8 +1,11 @@
 # Continuity of the Alpine slab unraveled by high-resolution P wave tomography
 ## Abstract
 ## Introduction
-## Tectonics setting    
-阿尔卑斯-亚平宁造山带是中生代以来特提斯洋在`Adriatic`和欧洲被动大陆边缘之间逐渐闭合的结果[e.g., Handy et al., 2010]。中新生代`Cenozoic`Adria-Europe聚合主要受沿着复杂古海沟俯冲作用的影响，显示出阿尔卑斯中部和西部之间的主要直角弯曲和未来Provencal边缘呈东北-西南向的趋势（a NE-SW trend along the future Provencal margin)（图1（b））。这样的古海沟相对于Adria运动[Dewey et al., 1989]和相对于Tethys的欧洲大陆古边缘都是强烈倾斜的[Malusa et al., 2016b]。Adria 在阿尔卑斯中部和西部的俯冲系统中表现为上覆板块，在亚平宁俯冲系统中表现为下板块[Jolivet and Faccenna, 2000; Vignaroli et al., 2008; Malusa et al., 2015]。在原属于亚得里亚海边缘（Adriaic margin）的伸展异源体的增生之后，在白垩纪（Cretaceous）Adria 和欧洲板块之间沿着NE-SW的聚合期间，大部分特提斯洋俯冲到Adriatic 为板块之下。在古新世-始新世早期，沿着这一板块边界东西向缓慢聚合的记录被两个相反倾斜的俯冲带所容纳：1、从阿尔卑斯西部到科西嘉岛的活跃的东向（Alpine）俯冲作用，将欧洲大陆俯冲至 (U)HP 深度；2、同时期的西北俯冲，在未来的亚平宁时期非常活跃（图1（b））。俯冲过程中古地温梯度非常低，特别是在阿尔卑斯处（4-6 ℃/km）。在始新世中晚期，由于厚厚的欧洲地壳到达海沟，该海沟的俯冲被阻塞。当Adriatic板块一开始向NNE（北东北）移动，（超）高压变质岩就折返到地表（图1（b））。Adriatic 板块因此斜俯冲到Corsica，并在渐新世末期（Oligocene）到达阿尔卑斯造山楔的残余。然而Adriatic 板块在新近纪是否再向北移动尚不清楚，当Adriatic海沟开始向东后撤，导致了Ligurian-Provencal盆地的打开，控制着Corsica-Sardinia的逆时针旋转和亚平宁期岩浆活动的逐步迁移。在Adriatic海沟后撤期间，阿尔卑斯造山楔的最上层也经历了与亚平宁山脉过渡带的逆时针旋转，但这种旋转对阿尔卑斯板块最深部分的影响仍不清楚。
+## Tectonics setting
+```
+* Mesozoic: 中生代
+```    
+阿尔卑斯-亚平宁造山带是中生代`Mesozoic`以来特提斯洋在`Adriatic microplate`和欧洲被动大陆边缘之间逐渐闭合的结果[e.g., Handy et al., 2010]。中新生代`Cenozoic`Adria-Europe聚合主要受沿着复杂古海沟俯冲作用的影响，显示出阿尔卑斯中部和西部之间的主要直角弯曲和未来Provencal边缘呈东北-西南向的趋势（a NE-SW trend along the future Provencal margin)（图1（b））。这样的古海沟相对于Adria运动[Dewey et al., 1989]和相对于Tethys的欧洲大陆古边缘都是强烈倾斜的[Malusa et al., 2016b]。Adria 在阿尔卑斯中部和西部的俯冲系统中表现为上覆板块，在亚平宁俯冲系统中表现为下板块[Jolivet and Faccenna, 2000; Vignaroli et al., 2008; Malusa et al., 2015]。在原属于亚得里亚海边缘（Adriaic margin）的伸展异源体的增生之后，在白垩纪（Cretaceous）Adria 和欧洲板块之间沿着NE-SW的聚合期间，大部分特提斯洋俯冲到Adriatic 为板块之下。在古新世-始新世早期，沿着这一板块边界东西向缓慢聚合的记录被两个相反倾斜的俯冲带所容纳：1、从阿尔卑斯西部到科西嘉岛的活跃的东向（Alpine）俯冲作用，将欧洲大陆俯冲至 (U)HP 深度；2、同时期的西北俯冲，在未来的亚平宁时期非常活跃（图1（b））。俯冲过程中古地温梯度非常低，特别是在阿尔卑斯处（4-6 ℃/km）。在始新世中晚期，由于厚厚的欧洲地壳到达海沟，该海沟的俯冲被阻塞。当Adriatic板块一开始向NNE（北东北）移动，（超）高压变质岩就折返到地表（图1（b））。Adriatic 板块因此斜俯冲到Corsica，并在渐新世末期（Oligocene）到达阿尔卑斯造山楔的残余。然而Adriatic 板块在新近纪是否再向北移动尚不清楚，当Adriatic海沟开始向东后撤，导致了Ligurian-Provencal盆地的打开，控制着Corsica-Sardinia的逆时针旋转和亚平宁期岩浆活动的逐步迁移。在Adriatic海沟后撤期间，阿尔卑斯造山楔的最上层也经历了与亚平宁山脉过渡带的逆时针旋转，但这种旋转对阿尔卑斯板块最深部分的影响仍不清楚。
 由于俯冲板块的回撤（slab rollback），亚平宁地区的俯冲作用明显大于阿尔卑斯，关于在~30Ma观测到的岩浆活动的顶峰与推测出的特提斯洋板块断裂之间的因果关系尚未得到证实。阿尔卑斯中部的俯冲量约为450km，而沿亚平宁海沟由北向南逐渐增加，在卡拉布里亚达到~1300km。
 
 ### 沿着板片走向的连续性和 Inherited structure的作用
