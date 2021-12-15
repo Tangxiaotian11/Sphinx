@@ -5,3 +5,4 @@ A simple conclusion about different tomography method
    :maxdepth: 2
 
    Ambient_Nose_Tomography
+   Finite_Freq_Tomo
