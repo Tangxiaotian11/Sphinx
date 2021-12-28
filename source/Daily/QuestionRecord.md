@@ -11,3 +11,6 @@
     
        2. Colour plots typically show positive(fast) and negative (slow) anomalies relative to a “zero” contour that corresponds approximately to the mean wave speed in each individual layer (Bastow, 2012).
     ```
+
+## 2021/12/28
+1. low Vp anomaly may either attest to the presence of fluids or have a thermal origin. The former hypothesis can be excluded in light of the location and the depth of the low Vp anomaly with respect to the nearby slabs(figures 10e and 11, Malusa et al., 2020, GC)。 为什么根据Vp异常的深度和靠近俯冲板片的位置就可以排除fluids？
