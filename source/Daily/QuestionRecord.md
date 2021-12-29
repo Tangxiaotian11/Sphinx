@@ -2,7 +2,7 @@
 
 <h2 data-tool="markdown.com.cn编辑器" style="margin-top: 30px; margin-bottom: 15px; font-weight: bold; color: black; border-bottom: 2px solid rgb(239, 112, 96); font-size: 1.3em;"><span class="prefix" style="display: none;"></span><span class="content" style="display: inline-block; font-weight: bold; background: rgb(239, 112, 96); color: #ffffff; padding: 3px 10px 1px; border-top-right-radius: 3px; border-top-left-radius: 3px; margin-right: 3px;">1 finite frequency tomography</span><span class="suffix"></span><span style="display: inline-block; vertical-align: bottom; border-bottom: 36px solid #efebe9; border-right: 20px solid transparent;"> </span></h2>
 
-## 2021/12/26
+## 2021/12
 1. Teleseismic tomography models of Vp perturbations display lateral P-wave velocity changes with respect to the horizontally averaged Vp in the region crossed by incident P waves. They are not associated to a reference model. why？
     ```
        1. Foulger et al., 2013, Terra Nova:
@@ -12,5 +12,6 @@
        2. Colour plots typically show positive(fast) and negative (slow) anomalies relative to a “zero” contour that corresponds approximately to the mean wave speed in each individual layer (Bastow, 2012).
     ```
 
-## 2021/12/28
-1. low Vp anomaly may either attest to the presence of fluids or have a thermal origin. The former hypothesis can be excluded in light of the location and the depth of the low Vp anomaly with respect to the nearby slabs(figures 10e and 11, Malusa et al., 2020, GC)。 为什么根据Vp异常的深度和靠近俯冲板片的位置就可以排除fluids？
+2. low Vp anomaly may either attest to the presence of fluids or have a thermal origin. The former hypothesis can be excluded in light of the location and the depth of the low Vp anomaly with respect to the nearby slabs(figures 10e and 11, Malusa et al., 2020, GC)。 为什么根据Vp异常的深度和靠近俯冲板片的位置就可以排除fluids？
+
+3. what is slab overturn?
