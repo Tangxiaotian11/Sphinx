@@ -2,7 +2,7 @@
 
 <h2 data-tool="markdown.com.cn编辑器" style="margin-top: 30px; margin-bottom: 15px; font-weight: bold; color: black; border-bottom: 2px solid rgb(239, 112, 96); font-size: 1.3em;"><span class="prefix" style="display: none;"></span><span class="content" style="display: inline-block; font-weight: bold; background: rgb(239, 112, 96); color: #ffffff; padding: 3px 10px 1px; border-top-right-radius: 3px; border-top-left-radius: 3px; margin-right: 3px;">文献阅读</span><span class="suffix"></span><span style="display: inline-block; vertical-align: bottom; border-bottom: 36px solid #efebe9; border-right: 20px solid transparent;"> </span></h2>
 
- 1. Foulger et al., 2013, Terra Nova: Caveats on tomo imagines   
+ 1. ***Foulger et al., 2013, Terra Nova: Caveats on tomo imagines***   
      1. 研究区域外的不均匀结构不能被忽略  
         ```
         外部结构的污染效应在数学上与研究区域内结构的污染效应相同，在远震层析成像中，通过将入射波前的形状和方向作为未知数，并在层析反演过程中求解，可以减少外部结构的偏置效应。
@@ -59,5 +59,4 @@
 
         However, on local and regional scales, mineralogical and chemical heterogeneities, as well as partial melt, crystal size and the presence of hydrogen and carbon may have greater effects than temperature on seismic wave speed and cannot be ignored
 
-        
         ```
