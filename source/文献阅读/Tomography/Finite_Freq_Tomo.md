@@ -53,5 +53,11 @@
         ```
     8. 相对速度和绝对速度
         ```
+        相对波速图与绝对波速图有着截然不同的视觉印象，而绝对波速图描述的是真实的地球地震结构
 
+        The question of what is an appropriate reference model is particularly important in the case of subduction zones. If the starting model LVZ wave speeds are too high, the imaged slab will appear to be broken
+
+        However, on local and regional scales, mineralogical and chemical heterogeneities, as well as partial melt, crystal size and the presence of hydrogen and carbon may have greater effects than temperature on seismic wave speed and cannot be ignored
+
+        
         ```
