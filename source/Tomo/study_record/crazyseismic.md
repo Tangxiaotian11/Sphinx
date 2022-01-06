@@ -76,3 +76,31 @@ done
    ```
 
    同样对数据要进行批处理，所以这里仍然使用`shell`脚本实现批处理
+   ```bash
+   #!/bin/sh
+   event=2019_11_6_20_52_56.85
+   minidata_dir=./$event/waveform
+   dataless_dir=./$event/station_dataless
+   sac_dir=./$event/waveform_sac
+   rdseed_dir=./rdseedv5.3/rdseed.rh6.linux_64
+   response_dir=./$event/response_PZ
+   echo $rdseed_dir
+   # 1. get waveform
+   for line in `ls $minidata_dir`
+   do
+   echo $minidata_dir/$line
+   $rdseed_dir -df $minidata_dir/$line -g $dataless_dir/${line%.*.*H*}.dataless -q $sac_dir
+   done
+
+   # 2. 提取仪器响应 PZ
+   for line in `ls $minidata_dir`
+   do
+   echo $minidata_dir/$line
+   $rdseed_dir -pf $dataless_dir/${line%.*.*H*}.dataless -q $response_dir
+   done
+   ```
+这里很奇怪的错误是`shell`中利用`/dir/dir`是不正确的，而应该是`./dir/dir`，
+但是这种在`stationxml_to_dataless`程序中又是正确的。还不是很明白为什么，因为对
+`shell`接触的比较少
+
+### **3rd: 将地震事件信息写入到`.SAC`中**
