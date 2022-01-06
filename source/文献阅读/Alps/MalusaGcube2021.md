@@ -1,4 +1,4 @@
-# The Deep Structure of the Alps Based on the CIFALPS Seismic Experiment: A Synthesis
+# Malusà et al., 2021, GC
 ## Tectonic Setting
 ```
 * Cretaceous: 白垩世
