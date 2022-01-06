@@ -5,3 +5,4 @@ DataRequest
    :maxdepth: 2
 
    数据下载
+   crazyseismic
