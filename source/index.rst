@@ -11,7 +11,7 @@
    :caption: Contents:
 
 
-   Dail/index
+   Daily/index
    文献阅读/index
    Tomo/index
    C/index
