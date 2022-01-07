@@ -93,14 +93,29 @@ done
    done
 
    # 2. 提取仪器响应 PZ
-   for line in `ls $minidata_dir`
-   do
-   echo $minidata_dir/$line
-   $rdseed_dir -pf $dataless_dir/${line%.*.*H*}.dataless -q $response_dir
-   done
+   #for line in `ls $minidata_dir`
+   #do
+   #echo $minidata_dir/$line
+   #$rdseed_dir -pf $dataless_dir/${line%.*.*H*}.dataless -q $response_dir
+   #done
    ```
 这里很奇怪的错误是`shell`中利用`/dir/dir`是不正确的，而应该是`./dir/dir`，
 但是这种在`stationxml_to_dataless`程序中又是正确的。还不是很明白为什么，因为对
 `shell`接触的比较少
 
 ### **3rd: 将地震事件信息写入到`.SAC`中**
+利用`SACTrace.read`读取`sac`文件
+```python
+# 写入地震事件信息
+for i in range(len(files)):
+
+    sac = SACTrace.read('%s/%s' % (input_dir, files[i]),headonly=True)
+    sac.o = o
+    sac.iztype = iztype
+    sac.evla = evla
+    sac.evlo = evlo
+    sac.evdp = evdp
+
+    # 保存写入的地震信息
+    sac.write('%s/%s' % (input_dir, files[i]), headonly=True)
+```
