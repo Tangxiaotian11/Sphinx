@@ -6,4 +6,4 @@ Obspy Learning
 .. toctree::
    :maxdepth: 2
 
-   DataRequest/contents
+   DataProcess/contents
