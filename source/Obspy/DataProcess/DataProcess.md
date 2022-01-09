@@ -3,6 +3,8 @@
 ## 1.1 仪器响应
 Reference：<https://docs.obspy.org/packages/autogen/obspy.core.trace.Trace.remove_response.html#obspy.core.trace.Trace.remove_response>
 
+关于仪器响应的具体介绍，可以参`seisman`的博客：<https://blog.seisman.info/tags/%E4%BB%AA%E5%99%A8%E5%93%8D%E5%BA%94/>
+
 用法：
 `Trace.remove_response(inventory=None, output='VEL', water_level=60, pre_filt=None, zero_mean=True, taper=True, taper_fraction=0.05, plot=False, fig=None, **kwargs)`
 
@@ -18,10 +20,10 @@ Reference：<https://docs.obspy.org/packages/autogen/obspy.core.trace.Trace.remo
  ```
  `water_level`: water level for deconvoloution, 不太明白这个参数的作用
 
- `pre_filt`: 带通滤波，
+ `pre_filt`: 带通滤波，定一个地震学所关注的频率段，
     
     pre_filt=[0.005, 0.01, 10, 25]
-列表或元组定义了余弦锥度的四个角频率(f1, f2, f3, f4)，该锥度在f2和f3之间，当f1 < f < f2和f3 < f < f4时，锥度为0。 
+ f1、f2、f3、f4，满足 `f1<f2<f3<f4` ，其中 f4 必须 小于或等于 50Hz，对于其他参数没有过多要求。
 
 `zero_mean`: 去均值
 
