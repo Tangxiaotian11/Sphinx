@@ -1,6 +1,20 @@
-# 2. 利用 Crazyseismic 拾取相对到时
+# 2. 数据预处理
 
-## 2.1 数据准备
+整个流程介绍：
+   1. 下载地震事件目录：`download_event.py`;
+   2. 下载地震事件（waveform & stationxml）: `download_data.py`
+   3. 根据需求筛选地震事件，比如我做S波层析成像数据，那么我只需要`N,E`分量:`component_select.py`;
+   4. 数据预处理：去均值，去线性趋势，两端尖灭，去仪器响应: `pre_process.py`;
+   5. 将保存台站信息的`stationxml`格式文件转化为`dataless`格式文件: `xml_to_dataless.sh`；
+   6. 将`miniseed`数据转化为`sac`格式: `miniseed_to_sac.sh`（PS：得到的sac参考时间是头段量
+   7. 的参考时间，'iztype'还没有被写入，一般我们以地震的发震时刻为参考时间，所以需要重新修改）
+   8. 将事件信息写入到`sac`格式的波形数据之中: `event_write_to_sac.py`
+   9. 将`NE`分量转化为`RT`分量: `component_rotate.py`
+   
+其实整个过程可以用一个脚本来完成，但是我们希望一个程序能简单被多次使用，因而我们一个程序就只是实现一个功能，并且
+在后续的过程中，会将这些功能都转化成函数格式，这样就能够方便调用。
+
+## 2.1 `Crazyseismic`数据准备需求
  目前只接受处理SAC格式的地震数据。
 
  在 SAC 格式数据中，头文件中必须包含以下信息：
