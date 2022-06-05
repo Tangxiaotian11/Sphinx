@@ -1,2 +1,0 @@
-# advantage
-# disadvantage

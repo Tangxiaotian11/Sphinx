@@ -7,4 +7,3 @@
    :maxdepth: 2
 
    Alps/contents
-   Tomography/contents

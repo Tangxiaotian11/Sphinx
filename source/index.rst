@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-为什么不多问问自己为什么呢？
+要学会开导自己？
 ================================
 
 .. toctree::
@@ -11,11 +11,7 @@
    :caption: Contents:
 
 
-   Daily/index
-   文献阅读/index
-   Tomo/index
-   C/index
-   Obspy/index
+   literature_reading/index
    about
 
 
