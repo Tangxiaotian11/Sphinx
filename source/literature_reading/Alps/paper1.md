@@ -1,5 +1,5 @@
-paper 1
-===
+# paper 1
+
  _Two subduction-related heterogeneities beneath the Eastern Alps and the  Bohemian Massif imaged by high-resolution P-wave tomography_
 
  Jaroslava Plomerová et al., 2022, solid earth
