@@ -6,4 +6,4 @@
 .. toctree::
    :maxdepth: 2
 
-   Alps/markdown_files/paper1
+   Alps/contents
