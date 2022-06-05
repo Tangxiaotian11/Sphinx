@@ -3,5 +3,5 @@ Alps
 
 .. toctree::
    :maxdepth: 2
-
-   paper1
+   list and summarize/list
+   paper/paper1
