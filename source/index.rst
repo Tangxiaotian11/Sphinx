@@ -8,9 +8,8 @@
    :maxdepth: 2
    :caption: Contents:
 
-
-   literature_reading/index
    about
+   literature_reading/index
 
 
 Indices and tables
