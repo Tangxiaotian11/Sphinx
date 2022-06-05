@@ -17,7 +17,7 @@ ___
 ___
 #### 2. result
 
-![vertical slices](/fig/paper1_1.png)
+![vertical slices](./fig/paper1_1.png)
 
 
 * __I&II__: "HV-EA": two high velocity anomalies are sepreated by the low velocity body beneath the TW, __I__ of "HV-EA" dips to north, but __II__ seems to immerse southward. ___argue for a mixing of a detached EU slab fragment and the shallow Adria slab connected at depth, may provide a evident to support the idea of subduction polarity reverse___;  
@@ -33,7 +33,7 @@ synthetic tests performed the fact that the data used in this paper are able to 
 2. checkboard tests
 ___
 #### 4. three scenarios of "HV_EA"
-1. a remnant of the delaminated European plate
+1. A remnant of the delaminated European plate
 
 ___
 #### 5. conclusions
