@@ -1,8 +1,9 @@
-Alps
+papers
 =========
 
 .. toctree::
    :maxdepth: 2
    
+   list
    paper1
-   markdown_files/paper1
+   
