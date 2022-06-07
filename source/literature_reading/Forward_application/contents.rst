@@ -1,12 +1,4 @@
-List
-=========
-.. toctree::
-   :maxdepth: 2
-
-   
-
-
-papers
+Forwarded application
 =========
 
 .. toctree::
