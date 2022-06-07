@@ -28,11 +28,13 @@ ___
 
 ___
 #### 3. resloution test
-1. synthetic test
+1. synthetic test  
 synthetic tests performed the fact that the data used in this paper are able to imagine two separate northward-dipping sub-parrallel slabs beneath the eastern Alps and southern rim of the BM.
-2. checkboard tests
+  
+2. checkboard tests  
 ___
-#### 4. three scenarios of "HV_EA"
+#### 4. three scenarios of "HV-BM"
+- [ ] about the details interplation about "HV-BM", read carefully after getting the tomography results.  ___2022/6/6___  
 1. A remnant of the delaminated European plate
 
 ___

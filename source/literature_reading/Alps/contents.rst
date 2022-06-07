@@ -3,7 +3,7 @@ List
 .. toctree::
    :maxdepth: 2
    
-   list
+   Eastern_Alps
 
 
 papers
